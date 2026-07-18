@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](header-portfolio)
+![Header](./header-portfolio.svg)
 
 # 📄 Portfolio — Research & Analysis
 
