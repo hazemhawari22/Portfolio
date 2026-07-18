@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://raw.githubusercontent.com/hazemhawari22/hazemhawari22/main/header-hazem-v2.svg)
+![Header](./header-portfolio.svg)
 
 # 📄 Portfolio — Research & Analysis
 
