@@ -5,7 +5,6 @@
 # 📄 Portfolio — Research & Analysis
 
 [![Open PDF](https://img.shields.io/badge/📥_OPEN-PORTFOLIO.PDF-C9A24A?style=for-the-badge&labelColor=0B0E13)](./PORTOFOLIO%20Hazem.pdf)
-[![Portfolio Site](https://img.shields.io/badge/🌐_SITE-hazemhawari22.github.io-7FB0D9?style=for-the-badge&labelColor=0B0E13)](https://hazemhawari22.github.io)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-hazem--hawari-0A66C2?style=for-the-badge&labelColor=0B0E13)](https://www.linkedin.com/in/hazem-hawari/)
 
 </div>
@@ -62,7 +61,6 @@ Asisten Lab & Pengajaran (5 mata kuliah, 4 semester) · Executive Chair Pekan Se
 <table>
 <tr><td width="120"><sub>email</sub></td><td><a href="mailto:hazemhawari22@gmail.com">hazemhawari22@gmail.com</a></td></tr>
 <tr><td><sub>linkedin</sub></td><td><a href="https://www.linkedin.com/in/hazem-hawari/">Hazem Hawari</a></td></tr>
-<tr><td><sub>portfolio</sub></td><td><a href="https://hazemhawari22.github.io">hazemhawari22.github.io</a></td></tr>
 <tr><td><sub>location</sub></td><td>Padang, Sumatera Barat, Indonesia</td></tr>
 </table>
 
