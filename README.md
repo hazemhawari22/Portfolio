@@ -4,7 +4,7 @@
 
 # 📄 Portfolio — Research & Analysis
 
-[![Open PDF](https://img.shields.io/badge/📥_OPEN-PORTFOLIO.PDF-C9A24A?style=for-the-badge&labelColor=0B0E13)](./PORTOFOLIO_Hazem.pdf)
+[![Open PDF](https://img.shields.io/badge/📥_OPEN-PORTFOLIO.PDF-C9A24A?style=for-the-badge&labelColor=0B0E13)](./PORTOFOLIO%20Hazem.pdf)
 [![Portfolio Site](https://img.shields.io/badge/🌐_SITE-hazemhawari22.github.io-7FB0D9?style=for-the-badge&labelColor=0B0E13)](https://hazemhawari22.github.io)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-hazem--hawari-0A66C2?style=for-the-badge&labelColor=0B0E13)](https://www.linkedin.com/in/hazem-hawari/)
 
